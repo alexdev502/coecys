@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">COECYS</string>
+    <string name="dashboard.titulo">COECYS</string>
+    <string name="nav.actividades">Actividades</string>
+    <string name="nav.mapa">Lugares</string>
+    <string name="nav.coecys">COECYS XVI</string>
+    <string name="nav.about">Acerca de</string>
+
+    <string name="activities_for_day">Actividades</string>
+
+    <string name="algo_a_salido_mal">Algo ha salido mal, intentelo de nuevo.</string>
+    <string name="sin_conexion">Sin conexion.</string>
+    <string name="sin_conexion_mensaje">No hay una conexión activa de internet.</string>
+
+    <string name="activity_ditail">Detalle Actividad</string>
+    <string name="info">Informacion</string>
+    <string name="map">Mapa</string>
+
+    <string name="infofragment.title">Titulo</string>
+    <string name="infofragment.description">Descripcion</string>
+    <string name="infofragment.location">Lugar:</string>
+    <string name="infofragment.schedule">Horario:</string>
+    <string name="infofragment.speaker">Conferencista</string>
+    <string name="infofragment.company">Empresa</string>
+    <string name="infofragment.coecys">Encargado:</string>
+    <string name="infofragment.contact">Contacto:</string>
+    <string name="calendar">Calendario</string>
+    <string name="calendar_message">Deseas agregar esta actividad al calendario de tu dispositivo?</string>
+
+    <string name="coecysinfo.intro_title">INTRODUCCIÓN</string>
+    <string name="coecysinfo.intro">
+        El XVI Congreso Centroamericano de Estudiantes de Ciencias y Sistemas, COECYS 2016, estará enfocado en el tema "CLOUD COMPUTING, EL DESTINO DE NUESTRA INFORMACIÓN".\n\n
+        COECYS es un evento de carácter académico que busca fortalecer el conocimiento tecnológico de sus participantes, impulsando la investigación, innovación y el emprendimiento a través de conferencias, talleres y visitas técnicas.
+    </string>
+
+    <string name="coecysinfo.mision_title">MISIÓN</string>
+    <string name="coecysinfo.mision_content">
+        romper la brecha tecnológica, ampliar la curiosidad, imaginación y creatividad y expandir los conocimientos de sus participantes.
+    </string>
+
+    <string name="coecysinfo.vision_title">VISIÓN</string>
+    <string name="coecysinfo.vision_content">
+    Ser la convención anual de estudiantes de Ingeniería en Ciencias y Sistemas reconocida a nivel nacional y Centroamericano, siendo fuente de información y tecnología vanguardista.
+    </string>
+
+    <string name="coecysinfo.objetivos_title">OBJETIVO GENERAL</string>
+    <string name="coecysinfo.objetivos_content">
+    Expandir la visión que se tiene sobre la información en la nube, en los diferentes campos de la tecnología tanto a nivel nacional como internacional, para lograr la meta de un profesional en el crecimiento y desarrollo de las empresas de computación dentro y fuera de Guatemala.
+    </string>
+
+    <string name="version">Versión</string>
+
+    <string name="about.android_developer">Android Developer</string>
+    <string name="about.android_developer_name">Mario Alexander Gutierrez Hernandez</string>
+    <string name="about.android_developer_contac">alex.dev502@gmail.com</string>
+
+</resources>

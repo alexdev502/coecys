@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_activities"
+            android:checked="true"
+            android:icon="@drawable/ic_calendar_multiple_black_48dp"
+            android:title="@string/nav.actividades" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_google_maps_black_48dp"
+            android:title="@string/nav.mapa" />
+
+        <item
+            android:id="@+id/nav_coecys"
+            android:icon="@drawable/ic_school_black_48dp"
+            android:title="@string/nav.coecys" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_error_outline_black_48dp"
+            android:title="@string/nav.about" />
+    </group>
+</menu>
