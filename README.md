@@ -3,7 +3,7 @@ COECYS APP
 Codigo utilizado para la aplicación oficial de COECYS XVI.<br/>
 <img src="icon_coecys.png" width="219" height="227"/>
 
-Proyecto realizado por los estudiantes Ingenieria en Sistemas de la USAC.
+Proyecto realizado por los estudiantes de Ingenieria en Sistemas de la USAC.
 
  * Mario Alexander Gutierrez Hernandez - Android Developer
  * Brian Joab Ruano Illescas - Backend Developer
